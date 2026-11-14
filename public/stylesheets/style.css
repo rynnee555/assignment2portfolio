@@ -1,0 +1,35 @@
+
+/* This changes the main website appearance */
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color: black;
+}
+
+/* This changes the headings */
+h1 {
+    color: #0066cc;
+    margin-bottom: 20px;
+}
+
+/* This changes smaller headings */
+h2 {
+    color: #333333;
+    margin-top: 25px;
+}
+
+/* This changes paragraph text */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* This changes the footer */
+footer {
+    margin-top: 40px;
+}
+
+/* This changes the footer links */
+footer a {
+    margin: 10px;
+}
